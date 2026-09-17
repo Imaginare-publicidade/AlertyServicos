@@ -1,0 +1,25 @@
+ALERTY SERVIÇOS — SITE INSTITUCIONAL
+
+COMO ABRIR
+Extraia todo o ZIP e abra index.html no navegador. Mantenha styles.css, app.js e a pasta assets junto ao arquivo. Não é necessário instalar programas ou iniciar um servidor.
+
+CONTEÚDO
+16 serviços, três frentes de atuação, história baseada na apresentação, 21 clientes do portfólio de 2025, contatos, formulário e WhatsApp. Imagens extraídas da apresentação fornecida. O arquivo do novo logotipo foi copiado sem alterações.
+
+FORMULÁRIO
+Valida os campos e prepara a mensagem para o aplicativo de e-mail ou WhatsApp. A pessoa confirma o envio no aplicativo. Não há servidor de envio, banco de dados nem confirmação automática de recebimento. Se o aplicativo não abrir, o texto preparado pode ser copiado. É necessária conexão para acessar os serviços externos.
+
+WHATSAPP
+Configurado com 55 11 2759-7217, telefone comercial informado na apresentação. A apresentação não confirma se ele está habilitado para WhatsApp. Antes de publicar, confirme esse dado. Se necessário, altere WHATSAPP_NUMBER no app.js e o endereço wa.me do botão flutuante em index.html.
+
+FIDELIDADE À APRESENTAÇÃO
+O PDF menciona tanto mais de 10 anos quanto mais de 6 anos de atuação. O site não apresenta um tempo de atuação para evitar reproduzir a inconsistência. A origem em Santo André foi preservada. O PDF não apresenta endereço completo; nenhum foi inventado. As marcas de clientes são apresentadas como referências do portfólio de 2025, sem afirmar contratos vigentes. Os números 16 e 3 correspondem aos serviços e frentes do site; 24h refere-se ao monitoramento eletrônico citado no PDF.
+
+EDIÇÃO
+index.html: conteúdo e contatos.
+styles.css: cores, tamanhos, estilos e adaptação para celular.
+app.js: menu, filtros e preparação de mensagens.
+assets: logotipo, imagens e marcas de clientes.
+
+VERIFICAÇÃO
+Prévia conferida em 1440 x 900 e 390 x 844. Verificados menu móvel, filtro de construção, seleção de serviço pelo card, validação obrigatória, sintaxe JavaScript e referências locais. Nenhuma mensagem de teste foi enviada.
